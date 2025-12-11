@@ -5,21 +5,33 @@ Car Price Prediction Using Statistical Methods – Project Overview (Student Ver
 The aim of this project is to understand which factors affect the price of a car and how accurately we can predict car prices using statistical techniques. I used the Car Price Assignment dataset, which contains various car features such as engine size, horsepower, curb weight, fuel type, car body, and brand.
 
 The main idea was to check:
+
 Which car features influence the price the most?
+
 Can we build a statistical model that predicts car price?
+
 Are all the variables significant or only a few important ones?
+
 How does the full model compare with reduced models?
 
 🛠️ Tools & Libraries Used
 
 Python
+
 Pandas
+
 NumPy
+
 Seaborn
+
 Matplotlib
+
 Statsmodels
+
 SciPy
+
 scikit-learn
+
 Jupyter Notebook
 
 📂 Dataset Description
@@ -27,12 +39,19 @@ Jupyter Notebook
 The dataset contains 205 rows and various attributes of cars, such as:
 
 Car brand (CarName)
+
 Engine size
+
 Horsepower
+
 Body type
+
 Fuel system
+
 Number of cylinders
+
 Curb weight
+
 Price (target variable)
 
 Some columns were messy (brand names misspelled), so I cleaned and encoded them before performing any analysis.
@@ -105,9 +124,13 @@ Most points were close to the diagonal red line
 This shows the model fits the data well and predictions are quite accurate
 
 Project team: Amolika:24XVIM0528
-Paridhi:24XV1M0533
-Mahathi:24XV1M0558
-Yashaswini:24XV1M0559
-Shivani:24XV1M6624
-Chiruhas:24XV1M0511
 
+Paridhi:24XV1M0533
+
+Mahathi:24XV1M0558
+
+Yashaswini:24XV1M0559
+
+Shivani:24XV1M6624
+
+Chiruhas:24XV1M0511
